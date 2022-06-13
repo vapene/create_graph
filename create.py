@@ -12,5 +12,6 @@ print(lambdas)
 G = create_node_features(G,n,mu)
 label_dict = create_label_dict(n)
 pyg_graph = from_networkx(G)
-# print(pyg_graph) # Data(edge_index=[2, 324], block=[42], feature=[42, 128], num_nodes=42)
+# hello
+# Data(edge_index=[2, 324], block=[42], feature=[42, 128], num_nodes=42)
 
